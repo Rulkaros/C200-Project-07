@@ -3,14 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacle
+  - Coin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
+  - Player
   - 
   - 
   - 
@@ -34,8 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Camera
   - 
   m_SortingLayers:
   - name: Default
